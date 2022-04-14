@@ -13,7 +13,15 @@ namespace DesktopPet_Pika
     {
         public 动画测试()
         {
+
             InitializeComponent();
+        }
+        public 动画测试(Form f)
+        {
+            InitializeComponent();
+            this.Owner = f;
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(this.Owner.Location.X+215, this.Owner.Location.Y+20);
         }
         bool haveHandle = true;  //用于SetBits
         bool bFormDragging = false;  // 用于窗体移动
@@ -135,6 +143,7 @@ namespace DesktopPet_Pika
         }
         private void 动画测试_Load(object sender, EventArgs e)
         {
+
             pet[0] = new Bitmap(Application.StartupPath + "\\shell\\surface0000.png");
             pet[1] = new Bitmap(Application.StartupPath + "\\shell\\surface0001.png");
             pet[2] = new Bitmap(Application.StartupPath + "\\shell\\surface0002.png");
@@ -255,10 +264,21 @@ namespace DesktopPet_Pika
 
         private void 退出ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.DialogResult = DialogResult.Cancel;
-            this.Hide();
-            //this.Visible = false;
-            this.Close();
+            try
+            {
+                Owner.Left = this.Left - 215;
+                Owner.Top = this.Top - 20;
+                this.Owner.Show();
+                this.Dispose();
+                //this.Hide();
+                //notifyIcon1.Visible = false;
+                //this.Visible = false;
+                //this.Close();
+            }
+            catch (Exception ee)
+            {
+                MessageBox.Show(ee.ToString());
+            }
         }
 
         private void 眨眼ToolStripMenuItem_Click(object sender, EventArgs e)

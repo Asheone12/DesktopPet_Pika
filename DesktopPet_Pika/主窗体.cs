@@ -991,7 +991,7 @@ namespace DesktopPet_Pika
                 ini.IniWriteValue("main", "Value" + Convert.ToString(i), beiwangValue.Items[i].ToString());
                 ini.IniWriteValue("main", "Time" + Convert.ToString(i), beiwangTime.Items[i].ToString());
             }
-
+            Application.Exit();
         }
 
         //读取
@@ -1372,10 +1372,10 @@ namespace DesktopPet_Pika
             try
             {
                 this.Hide();
-                动画测试 animation = new 动画测试();
-                DialogResult d = animation.ShowDialog();
-                if (d == DialogResult.Cancel)
-                    this.Visible = true;
+                动画测试 animation = new 动画测试(this);
+                //DialogResult d = animation.ShowDialog();
+                //if (d == DialogResult.Cancel)
+                //    this.Visible = true;
                 animation.Show();
             }
             catch (Exception ff)

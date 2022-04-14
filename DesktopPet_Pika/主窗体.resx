@@ -129,322 +129,79 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="聊天ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="聊天ToolStripMenuItem.Text" xml:space="preserve">
     <value>AI聊天</value>
   </data>
   <data name="听音乐ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="听音乐ToolStripMenuItem.Text" xml:space="preserve">
     <value>听音乐♫</value>
   </data>
   <data name="备忘录ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="备忘录ToolStripMenuItem.Text" xml:space="preserve">
     <value>备忘录     (&amp;M)</value>
   </data>
   <data name="动画测试ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="动画测试ToolStripMenuItem.Text" xml:space="preserve">
     <value>动画测试</value>
   </data>
-  <data name="管理列表ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
-  </data>
-  <data name="管理列表ToolStripMenuItem.Text" xml:space="preserve">
-    <value>管理列表(&amp;R)</value>
-  </data>
-  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 6</value>
-  </data>
   <data name="最近使用的文件ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="最近使用的文件ToolStripMenuItem.Text" xml:space="preserve">
     <value>最近使用的文件</value>
   </data>
   <data name="分隔符1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>182, 6</value>
-  </data>
-  <data name="聚合搜索ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>186, 26</value>
-  </data>
-  <data name="聚合搜索ToolStripMenuItem.Text" xml:space="preserve">
-    <value>聚合搜索(&amp;S)</value>
-  </data>
-  <data name="toolStripSeparator3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>183, 6</value>
-  </data>
-  <data name="必应BingToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>186, 26</value>
-  </data>
-  <data name="必应BingToolStripMenuItem.Text" xml:space="preserve">
-    <value>必应(Bing)</value>
-  </data>
-  <data name="谷歌GoogleToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>186, 26</value>
-  </data>
-  <data name="谷歌GoogleToolStripMenuItem.Text" xml:space="preserve">
-    <value>谷歌(Google)</value>
-  </data>
-  <data name="百度ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>186, 26</value>
-  </data>
-  <data name="百度ToolStripMenuItem.Text" xml:space="preserve">
-    <value>百度</value>
+    <value>155, 6</value>
   </data>
   <data name="快速搜索ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="快速搜索ToolStripMenuItem.Text" xml:space="preserve">
     <value>快速搜索</value>
   </data>
-  <data name="快速加速ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 26</value>
-  </data>
-  <data name="快速加速ToolStripMenuItem.Text" xml:space="preserve">
-    <value>快速加速(&amp;F)</value>
-  </data>
-  <data name="后台纯净ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 26</value>
-  </data>
-  <data name="后台纯净ToolStripMenuItem.Text" xml:space="preserve">
-    <value>后台纯净</value>
-  </data>
-  <data name="优化清理ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 26</value>
-  </data>
-  <data name="优化清理ToolStripMenuItem.Text" xml:space="preserve">
-    <value>优化清理</value>
-  </data>
   <data name="清理加速ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="清理加速ToolStripMenuItem.Text" xml:space="preserve">
     <value>清理加速</value>
   </data>
-  <data name="新建任务ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>171, 26</value>
-  </data>
-  <data name="新建任务ToolStripMenuItem.Text" xml:space="preserve">
-    <value>(新建任务)</value>
-  </data>
-  <data name="管理任务ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>171, 26</value>
-  </data>
-  <data name="管理任务ToolStripMenuItem.Text" xml:space="preserve">
-    <value>管理任务(&amp;T)</value>
-  </data>
-  <data name="toolStripSeparator4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 6</value>
-  </data>
   <data name="定时任务ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="定时任务ToolStripMenuItem.Text" xml:space="preserve">
     <value>定时任务</value>
   </data>
-  <data name="护眼模式ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="护眼模式ToolStripMenuItem.Text" xml:space="preserve">
-    <value>打开/关闭护眼模式</value>
-  </data>
-  <data name="打开命令提示符CMDToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="打开命令提示符CMDToolStripMenuItem.Text" xml:space="preserve">
-    <value>打开命令提示符(CMD)(&amp;C)</value>
-  </data>
-  <data name="高性能ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 26</value>
-  </data>
-  <data name="高性能ToolStripMenuItem.Text" xml:space="preserve">
-    <value>高性能</value>
-  </data>
-  <data name="平衡ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 26</value>
-  </data>
-  <data name="平衡ToolStripMenuItem.Text" xml:space="preserve">
-    <value>平衡</value>
-  </data>
-  <data name="节能ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 26</value>
-  </data>
-  <data name="节能ToolStripMenuItem.Text" xml:space="preserve">
-    <value>节能</value>
-  </data>
-  <data name="性能选项ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="性能选项ToolStripMenuItem.Text" xml:space="preserve">
-    <value>计算机性能选项</value>
-  </data>
-  <data name="整理桌面文件ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="整理桌面文件ToolStripMenuItem.Text" xml:space="preserve">
-    <value>整理桌面文件</value>
-  </data>
-  <data name="锁定WindowsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="锁定WindowsToolStripMenuItem.Text" xml:space="preserve">
-    <value>锁定Windows          Win+L</value>
-  </data>
-  <data name="toolStripSeparator2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 6</value>
-  </data>
-  <data name="快速截图ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="快速截图ToolStripMenuItem.Text" xml:space="preserve">
-    <value>快速截图</value>
-  </data>
-  <data name="计算器ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="计算器ToolStripMenuItem.Text" xml:space="preserve">
-    <value>计算器</value>
-  </data>
-  <data name="录音机ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="录音机ToolStripMenuItem.Text" xml:space="preserve">
-    <value>录音机</value>
-  </data>
-  <data name="放大镜ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="放大镜ToolStripMenuItem.Text" xml:space="preserve">
-    <value>放大镜</value>
-  </data>
-  <data name="屏幕键盘ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="屏幕键盘ToolStripMenuItem.Text" xml:space="preserve">
-    <value>屏幕键盘</value>
-  </data>
-  <data name="记事本ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="记事本ToolStripMenuItem.Text" xml:space="preserve">
-    <value>记事本</value>
-  </data>
-  <data name="任务管理器ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>283, 26</value>
-  </data>
-  <data name="任务管理器ToolStripMenuItem.Text" xml:space="preserve">
-    <value>任务管理器   Ctrl+Shift+Esc</value>
-  </data>
   <data name="常用工具ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="常用工具ToolStripMenuItem.Text" xml:space="preserve">
     <value>常用工具</value>
   </data>
   <data name="分隔符2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>182, 6</value>
-  </data>
-  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 26</value>
-  </data>
-  <data name="toolStripMenuItem2.Text" xml:space="preserve">
-    <value>100%</value>
-  </data>
-  <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 26</value>
-  </data>
-  <data name="toolStripMenuItem3.Text" xml:space="preserve">
-    <value>75%</value>
-  </data>
-  <data name="toolStripMenuItem4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 26</value>
-  </data>
-  <data name="toolStripMenuItem4.Text" xml:space="preserve">
-    <value>50%</value>
-  </data>
-  <data name="调整Pika透明度ToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="调整Pika透明度ToolStripMenuItem1.Text" xml:space="preserve">
-    <value>调整Pika透明度</value>
-  </data>
-  <data name="小ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 26</value>
-  </data>
-  <data name="小ToolStripMenuItem.Text" xml:space="preserve">
-    <value>小</value>
-  </data>
-  <data name="中ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 26</value>
-  </data>
-  <data name="中ToolStripMenuItem.Text" xml:space="preserve">
-    <value>中</value>
-  </data>
-  <data name="大ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 26</value>
-  </data>
-  <data name="大ToolStripMenuItem.Text" xml:space="preserve">
-    <value>大</value>
-  </data>
-  <data name="调整Pika大小ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="调整Pika大小ToolStripMenuItem.Text" xml:space="preserve">
-    <value>调整Pika大小</value>
-  </data>
-  <data name="隐藏悬浮窗可在系统托盘恢复ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="隐藏悬浮窗可在系统托盘恢复ToolStripMenuItem.Text" xml:space="preserve">
-    <value>隐藏Pika(双击右下角托盘图标恢复)</value>
-  </data>
-  <data name="设置ToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="设置ToolStripMenuItem1.Text" xml:space="preserve">
-    <value>设置……</value>
-  </data>
-  <data name="帮助快速入门ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="帮助快速入门ToolStripMenuItem.Text" xml:space="preserve">
-    <value>帮助</value>
-  </data>
-  <data name="关于此程序ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="关于此程序ToolStripMenuItem.Text" xml:space="preserve">
-    <value>关于程序</value>
-  </data>
-  <data name="toolStripSeparator5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>323, 6</value>
-  </data>
-  <data name="切换壁纸ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>326, 26</value>
-  </data>
-  <data name="切换壁纸ToolStripMenuItem.Text" xml:space="preserve">
-    <value>切换壁纸   (〃'▽'〃)(&amp;N)</value>
+    <value>155, 6</value>
   </data>
   <data name="设置ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="设置ToolStripMenuItem.Text" xml:space="preserve">
     <value>设置</value>
   </data>
   <data name="退出ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 24</value>
+    <value>158, 24</value>
   </data>
   <data name="退出ToolStripMenuItem.Text" xml:space="preserve">
     <value>退出</value>
   </data>
   <data name="右键菜单.Size" type="System.Drawing.Size, System.Drawing">
-    <value>186, 308</value>
+    <value>159, 280</value>
   </data>
   <data name="&gt;&gt;右键菜单.Name" xml:space="preserve">
     <value>右键菜单</value>
@@ -1590,6 +1347,249 @@
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="托盘.Visible" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="管理列表ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 26</value>
+  </data>
+  <data name="管理列表ToolStripMenuItem.Text" xml:space="preserve">
+    <value>管理列表(&amp;R)</value>
+  </data>
+  <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 6</value>
+  </data>
+  <data name="聚合搜索ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 26</value>
+  </data>
+  <data name="聚合搜索ToolStripMenuItem.Text" xml:space="preserve">
+    <value>聚合搜索(&amp;S)</value>
+  </data>
+  <data name="toolStripSeparator3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 6</value>
+  </data>
+  <data name="必应BingToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 26</value>
+  </data>
+  <data name="必应BingToolStripMenuItem.Text" xml:space="preserve">
+    <value>必应(Bing)</value>
+  </data>
+  <data name="谷歌GoogleToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 26</value>
+  </data>
+  <data name="谷歌GoogleToolStripMenuItem.Text" xml:space="preserve">
+    <value>谷歌(Google)</value>
+  </data>
+  <data name="百度ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>186, 26</value>
+  </data>
+  <data name="百度ToolStripMenuItem.Text" xml:space="preserve">
+    <value>百度</value>
+  </data>
+  <data name="快速加速ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 26</value>
+  </data>
+  <data name="快速加速ToolStripMenuItem.Text" xml:space="preserve">
+    <value>快速加速(&amp;F)</value>
+  </data>
+  <data name="后台纯净ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 26</value>
+  </data>
+  <data name="后台纯净ToolStripMenuItem.Text" xml:space="preserve">
+    <value>后台纯净</value>
+  </data>
+  <data name="优化清理ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>170, 26</value>
+  </data>
+  <data name="优化清理ToolStripMenuItem.Text" xml:space="preserve">
+    <value>优化清理</value>
+  </data>
+  <data name="新建任务ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 26</value>
+  </data>
+  <data name="新建任务ToolStripMenuItem.Text" xml:space="preserve">
+    <value>(新建任务)</value>
+  </data>
+  <data name="管理任务ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 26</value>
+  </data>
+  <data name="管理任务ToolStripMenuItem.Text" xml:space="preserve">
+    <value>管理任务(&amp;T)</value>
+  </data>
+  <data name="toolStripSeparator4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 6</value>
+  </data>
+  <data name="护眼模式ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="护眼模式ToolStripMenuItem.Text" xml:space="preserve">
+    <value>打开/关闭护眼模式</value>
+  </data>
+  <data name="打开命令提示符CMDToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="打开命令提示符CMDToolStripMenuItem.Text" xml:space="preserve">
+    <value>打开命令提示符(CMD)(&amp;C)</value>
+  </data>
+  <data name="性能选项ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="性能选项ToolStripMenuItem.Text" xml:space="preserve">
+    <value>计算机性能选项</value>
+  </data>
+  <data name="高性能ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 26</value>
+  </data>
+  <data name="高性能ToolStripMenuItem.Text" xml:space="preserve">
+    <value>高性能</value>
+  </data>
+  <data name="平衡ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 26</value>
+  </data>
+  <data name="平衡ToolStripMenuItem.Text" xml:space="preserve">
+    <value>平衡</value>
+  </data>
+  <data name="节能ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>137, 26</value>
+  </data>
+  <data name="节能ToolStripMenuItem.Text" xml:space="preserve">
+    <value>节能</value>
+  </data>
+  <data name="整理桌面文件ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="整理桌面文件ToolStripMenuItem.Text" xml:space="preserve">
+    <value>整理桌面文件</value>
+  </data>
+  <data name="锁定WindowsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="锁定WindowsToolStripMenuItem.Text" xml:space="preserve">
+    <value>锁定Windows          Win+L</value>
+  </data>
+  <data name="toolStripSeparator2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 6</value>
+  </data>
+  <data name="快速截图ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="快速截图ToolStripMenuItem.Text" xml:space="preserve">
+    <value>快速截图</value>
+  </data>
+  <data name="计算器ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="计算器ToolStripMenuItem.Text" xml:space="preserve">
+    <value>计算器</value>
+  </data>
+  <data name="录音机ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="录音机ToolStripMenuItem.Text" xml:space="preserve">
+    <value>录音机</value>
+  </data>
+  <data name="放大镜ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="放大镜ToolStripMenuItem.Text" xml:space="preserve">
+    <value>放大镜</value>
+  </data>
+  <data name="屏幕键盘ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="屏幕键盘ToolStripMenuItem.Text" xml:space="preserve">
+    <value>屏幕键盘</value>
+  </data>
+  <data name="记事本ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="记事本ToolStripMenuItem.Text" xml:space="preserve">
+    <value>记事本</value>
+  </data>
+  <data name="任务管理器ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 26</value>
+  </data>
+  <data name="任务管理器ToolStripMenuItem.Text" xml:space="preserve">
+    <value>任务管理器   Ctrl+Shift+Esc</value>
+  </data>
+  <data name="调整Pika透明度ToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="调整Pika透明度ToolStripMenuItem1.Text" xml:space="preserve">
+    <value>调整Pika透明度</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 26</value>
+  </data>
+  <data name="toolStripMenuItem2.Text" xml:space="preserve">
+    <value>100%</value>
+  </data>
+  <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 26</value>
+  </data>
+  <data name="toolStripMenuItem3.Text" xml:space="preserve">
+    <value>75%</value>
+  </data>
+  <data name="toolStripMenuItem4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 26</value>
+  </data>
+  <data name="toolStripMenuItem4.Text" xml:space="preserve">
+    <value>50%</value>
+  </data>
+  <data name="调整Pika大小ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="调整Pika大小ToolStripMenuItem.Text" xml:space="preserve">
+    <value>调整Pika大小</value>
+  </data>
+  <data name="小ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 26</value>
+  </data>
+  <data name="小ToolStripMenuItem.Text" xml:space="preserve">
+    <value>小</value>
+  </data>
+  <data name="中ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 26</value>
+  </data>
+  <data name="中ToolStripMenuItem.Text" xml:space="preserve">
+    <value>中</value>
+  </data>
+  <data name="大ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 26</value>
+  </data>
+  <data name="大ToolStripMenuItem.Text" xml:space="preserve">
+    <value>大</value>
+  </data>
+  <data name="隐藏悬浮窗可在系统托盘恢复ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="隐藏悬浮窗可在系统托盘恢复ToolStripMenuItem.Text" xml:space="preserve">
+    <value>隐藏Pika(双击右下角托盘图标恢复)</value>
+  </data>
+  <data name="设置ToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="设置ToolStripMenuItem1.Text" xml:space="preserve">
+    <value>设置……</value>
+  </data>
+  <data name="帮助快速入门ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="帮助快速入门ToolStripMenuItem.Text" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="关于此程序ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="关于此程序ToolStripMenuItem.Text" xml:space="preserve">
+    <value>关于程序</value>
+  </data>
+  <data name="toolStripSeparator5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 6</value>
+  </data>
+  <data name="切换壁纸ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>326, 26</value>
+  </data>
+  <data name="切换壁纸ToolStripMenuItem.Text" xml:space="preserve">
+    <value>切换壁纸   (〃'▽'〃)(&amp;N)</value>
   </data>
   <metadata name="快捷选项关闭.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>251, 29</value>
@@ -6920,6 +6920,12 @@
   <data name="&gt;&gt;备忘录ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;动画测试ToolStripMenuItem.Name" xml:space="preserve">
+    <value>动画测试ToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;动画测试ToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;最近使用的文件ToolStripMenuItem.Name" xml:space="preserve">
     <value>最近使用的文件ToolStripMenuItem</value>
   </data>
@@ -7279,12 +7285,6 @@
   </data>
   <data name="&gt;&gt;clicktime.Type" xml:space="preserve">
     <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;动画测试ToolStripMenuItem.Name" xml:space="preserve">
-    <value>动画测试ToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;动画测试ToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>主窗体</value>

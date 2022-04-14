@@ -35,6 +35,7 @@
             this.聊天ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.听音乐ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.备忘录ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.动画测试ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.最近使用的文件ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.管理列表ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
@@ -102,7 +103,6 @@
             this.备忘录 = new System.Windows.Forms.PictureBox();
             this.Picture = new System.Windows.Forms.PictureBox();
             this.made_in_heaven = new System.Windows.Forms.Button();
-            this.动画测试ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.右键菜单.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.sayPic)).BeginInit();
@@ -160,6 +160,12 @@
             resources.ApplyResources(this.备忘录ToolStripMenuItem, "备忘录ToolStripMenuItem");
             this.备忘录ToolStripMenuItem.Click += new System.EventHandler(this.备忘录ToolStripMenuItem_Click);
             this.备忘录ToolStripMenuItem.DoubleClick += new System.EventHandler(this.添加新的备忘录ToolStripMenuItem_Click);
+            // 
+            // 动画测试ToolStripMenuItem
+            // 
+            this.动画测试ToolStripMenuItem.Name = "动画测试ToolStripMenuItem";
+            resources.ApplyResources(this.动画测试ToolStripMenuItem, "动画测试ToolStripMenuItem");
+            this.动画测试ToolStripMenuItem.Click += new System.EventHandler(this.动画测试ToolStripMenuItem_Click);
             // 
             // 最近使用的文件ToolStripMenuItem
             // 
@@ -626,12 +632,6 @@
             this.made_in_heaven.Name = "made_in_heaven";
             this.made_in_heaven.UseVisualStyleBackColor = false;
             this.made_in_heaven.Click += new System.EventHandler(this.made_in_heaven_Click);
-            // 
-            // 动画测试ToolStripMenuItem
-            // 
-            this.动画测试ToolStripMenuItem.Name = "动画测试ToolStripMenuItem";
-            resources.ApplyResources(this.动画测试ToolStripMenuItem, "动画测试ToolStripMenuItem");
-            this.动画测试ToolStripMenuItem.Click += new System.EventHandler(this.动画测试ToolStripMenuItem_Click);
             // 
             // 主窗体
             // 
